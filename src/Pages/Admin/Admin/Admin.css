@@ -1,0 +1,31 @@
+.admin-area {
+  margin: 5px 0;
+  color: #333;
+  height: 100vh;
+  background: #ffc308;
+}
+.admin-container {
+  overflow-x: hidden;
+}
+.admin-menu {
+  list-style: none;
+  cursor: pointer;
+  margin: 1px 0;
+}
+.all-menu > ul{
+  padding: 0;
+  
+}
+.all-menu > ul > li{
+  border-bottom: 3px solid #333;
+  margin: 0px 5px;
+  
+}
+.all-menu > ul > li:hover{
+  margin-bottom: 5px;
+  background-color: #02186b;
+  color: #fff;
+  transition: 0.5s;
+  
+  
+}

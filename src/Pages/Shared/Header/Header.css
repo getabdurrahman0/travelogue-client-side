@@ -1,0 +1,14 @@
+.no-border{
+  border: none !important;
+  text-decoration: none ;
+}
+.no-border:hover{
+  border: none !important;
+
+}
+.nav-bg{
+  background: #02186b;
+}
+.light-color{
+  color: #fff;
+}

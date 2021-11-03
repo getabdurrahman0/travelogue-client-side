@@ -1,0 +1,18 @@
+.award-img {
+    height: 120px;
+    margin-bottom: 10px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: #eff0f3;
+  }
+  .title-color{
+    color: #02186b;
+  }
+  .aboutus{
+    background-color: #15b9ff;
+    color: #fff;
+  }
+  .section-header{
+    background-color: #ffeb00;
+  }

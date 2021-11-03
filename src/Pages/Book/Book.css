@@ -1,0 +1,61 @@
+
+.form-group{
+    position:relative;
+    margin-bottom:20px
+}
+.form-group i{
+    position:absolute;
+    right:15px;
+    top:15px;
+    color:#00b8ca;
+    font-size:18px
+}
+.form-group input[type=text],
+.form-group input[type=tel],
+.form-group input[type=email],
+.form-group select{
+    position:relative;
+    display:block;
+    width:100%;
+    line-height:28px;
+    padding:10px 20px;
+    color:#333;
+    height:50px;
+    font-size:13px;
+    background:#fff;
+    border:1px solid #d7d7d7;
+    -webkit-transition:all .3s ease;
+    -ms-transition:all .3s ease;
+    -o-transition:all .3s ease;
+    -moz-transition:all .3s ease;
+    transition:all .3s ease
+}
+form-group input[type=text]:focus,
+.form-group input[type=tel]:focus,
+.form-group input[type=email]:focus,
+.form-group textarea:focus{
+    border-color:#00b8ca
+}
+
+.form-group .appointment-btn{
+    position:relative;
+    text-align:center;
+    font-size:15px;
+    font-weight:700;
+    padding:11px 30px;
+    margin-top:10px;
+    display:inline-block;
+    background-color:#02186b;
+    border:1px solid #02186b;
+    text-transform:uppercase;
+    color:#fff
+}
+
+.bookHone{
+    background: #ffeb00;
+    padding: 20px;
+    color: #02186b;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+}

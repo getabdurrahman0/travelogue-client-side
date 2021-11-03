@@ -1,0 +1,14 @@
+.section-header{
+    height: 30vh;
+    display: flex;
+    background-color: #ffeb00;
+    justify-content: center;
+    color: #02186b;
+}
+.divider-top{
+    width: 120px;
+    margin: 10px 0;
+    height: 4px;
+    background: #02186b;
+}
+
